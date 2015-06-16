@@ -12,5 +12,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
   BUILD_FINGERPRINT="samsung/jflteuc/jflteatt:4.4.4/KTU84P/I337UCUFNJ4:user/release-keys" \
   PRIVATE_BUILD_DESC="jflteuc-user 4.4.4 KTU84P I337UCUFNJ4 release-keys"
 
-PRODUCT_NAME := fusionsp_jflteatt
+PRODUCT_NAME := jflteatt
 PRODUCT_DEVICE := jflteatt
